@@ -1,7 +1,7 @@
 <annotation>
     <folder>images_subset</folder>
-    <filename>42.722954_2.9339568.png</filename>
-    <path>/Users/rurikoimai/Documents/GitHub/Satellite_Pool_Detection/images_subset/42.722954_2.9339568.png</path>
+    <filename>43.685265_1.4342136.png</filename>
+    <path>/Users/rurikoimai/Documents/GitHub/Satellite_Pool_Detection/images_subset/43.685265_1.4342136.png</path>
     <source>
         <database>Unknown</database>
     </source>
@@ -17,10 +17,10 @@
         <truncated>0</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>217</xmin>
-            <ymin>254</ymin>
-            <xmax>294</xmax>
-            <ymax>250</ymax>
+            <xmin>239</xmin>
+            <ymin>266</ymin>
+            <xmax>272</xmax>
+            <ymax>217</ymax>
         </bndbox>
     </object>
 </annotation>
